@@ -2,6 +2,7 @@
 
 <div>
     <h1 align="center">Hi everyone, a'm Alexandr 👋</h1>
+    <p>Full Stack JS Develoer | WordPress developer</p>
 </div>
 <div>
     <h3>About me:</h3>
@@ -25,6 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50"/>
 </div>
 
 
