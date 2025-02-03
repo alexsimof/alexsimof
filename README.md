@@ -1,8 +1,7 @@
 
 
 <div>
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist!</p>
+    <h1 align="center">Hi everyone, a'm Alexandr</h1>
 </div>
 
 
