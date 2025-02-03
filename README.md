@@ -1,7 +1,7 @@
 
 
-<div>
-    <h1 align="center">Hi everyone, a'm Alexandr 👋</h1>
+<div align="center">
+    <h1>Hi everyone, a'm Alexandr👋</h1>
     <p>Full Stack JS Develoer | WordPress developer</p>
 </div>
 <div>
