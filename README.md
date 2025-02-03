@@ -1,8 +1,13 @@
 
 
 <div>
-    <h1 align="center">Hi everyone, a'm Alexandr</h1>
+    <h1 align="center">Hi everyone, a'm Alexandr 👋</h1>
 </div>
+## About me:
+I am a Full Stack JavaScript Developer with experience in creating interactive and responsive web applications, as well as in WordPress development.
+My goal is to contribute to the successful development of your projects by using my skills and knowledge to create high-quality user interfaces and solutions. I am ready to discuss how I can be useful to your team and projects.
+
+
 
 
 <!--
