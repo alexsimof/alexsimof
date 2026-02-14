@@ -7,8 +7,9 @@
 <div>
     <h3>About me:</h3>
     <p>
-        I am a Full Stack JavaScript Developer with experience in creating interactive and responsive web applications, as well as in WordPress development.
-        My goal is to contribute to the successful development of your projects by using my skills and knowledge to create high-quality user interfaces and solutions. I am ready to discuss how I can be useful to your team and projects.
+       I am a WordPress Developer with over 4 years of experience, specializing in turning ideas into functional digital products. I handle everything from coding to server and plugin configuration, ensuring that websites are not only visually appealing but also stable and easy to scale.
+
+I have a proven track record of launching projects from the ground up, including server environment setup and custom module development tailored to specific client needs. I build reliable digital tools designed for seamless scalability and long-term maintenance.
     </p>
 </div>
 <div>
