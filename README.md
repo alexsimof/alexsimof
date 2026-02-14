@@ -31,9 +31,9 @@ I have a proven track record of launching projects from the ground up, including
 </div>
 <div>
     <h3>Contacts:</h3>
-    <a href="https://www.linkedin.com/in/simonov-alexandr/">LinkedIn</a>
-    <a href="https://t.me/Alex_Simonov">Telegram</a>
-    <a href="alex.simonof@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/simonov-alexandr/">LinkedIn</a><br>
+    <a href="https://t.me/Alex_Simonov">Telegram</a><br>
+    <a href="mailto:alex.simonof@gmail.com">Email</a>
 </div>
 
 
