@@ -29,7 +29,12 @@ I have a proven track record of launching projects from the ground up, including
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="60"/>
 </div>
-
+<div>
+    <h3>Contacts:</h3>
+    <a href="https://www.linkedin.com/in/simonov-alexandr/">LinkedIn</a>
+    <a href="https://t.me/Alex_Simonov">Telegram</a>
+    <a href="alex.simonof@gmail.com">Email</a>
+</div>
 
 
 <!--
